@@ -6,7 +6,7 @@
 
 In the file Data_Pipeline_Architecture.pdf I propose an architecture to solve the problem encountered by the tech lead of the data product Squad.
 
-Customer Behavior Data Visualization
+Customer Behavior Data Visualization:
 
 The above architecture is showing with QuickSight connected to the data warehouse in RedShift and the processed data in S3, Analyst can be able to make their own reports with data that comes from all sources  
 
