@@ -1,6 +1,7 @@
 # Data-Group-Challenge
 
-**The high level problem
+
+**The high level problem**
 
 In the file Data_Pipeline_Architecture.pdf I propose an architecture to solve the problem encountered by the tech lead of the data product Squad.
 
@@ -17,12 +18,14 @@ Fraud Monitoring:
 With this architecture Data scientist can develop fraud detection algorithm by ingesting data either from the warehouse in RedShift or directely from the JSON API and the S3 bucket processed data. 
 
 
-**The low level problem
+
+**The low level problem**
 
 Kindly find my solution in the file Paths_in_DAG.py containing the code I wrote.  
 
 
-**The Scenario Problem
+
+**The Scenario Problem**
 
 Reaction 1 : The other team : The first response of the other squad will be they have troubles of merging the branches of the code written by their developpers to their mocks in staging and they need time to check that all the branches are well merged in the same version of the code.
 
