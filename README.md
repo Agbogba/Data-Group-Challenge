@@ -1,6 +1,7 @@
 # Data-Group-Challenge
 
 
+
 **The high level problem**
 
 In the file Data_Pipeline_Architecture.pdf I propose an architecture to solve the problem encountered by the tech lead of the data product Squad.
@@ -19,9 +20,11 @@ With this architecture Data scientist can develop fraud detection algorithm by i
 
 
 
+
 **The low level problem**
 
 Kindly find my solution in the file Paths_in_DAG.py containing the code I wrote.  
+
 
 
 
